@@ -10,7 +10,6 @@
 //    **&p;             RESULTADO: 3
 //    3 - *p/(*q)+7     RESULTADO: 10
 
-
 #include <stdio.h>
 
 int main(){
